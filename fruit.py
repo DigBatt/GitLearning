@@ -1,2 +1,2 @@
 def favorite_fruits():
-    return ["sam"]
+    return [67]
