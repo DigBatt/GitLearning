@@ -1,3 +1,2 @@
 def favorite_fruits():
-
-    return [3]
+    return true
